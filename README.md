@@ -57,7 +57,7 @@ pip install cookiecutter
 
 Create a project based on the template:
 ```bash
-cookiecutter https://github.com/AppCentralGroupDev/CBN_DS-ML_temp
+cookiecutter https://github.com/Application-Management-Division/GDP_DS-ML_Template
 ```
 
 Find detailed explanation of this template [here](https://towardsdatascience.com/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800).
